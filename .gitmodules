@@ -4,3 +4,6 @@
 [submodule "theos"]
 	path = theos
 	url = git://github.com/DHowett/theos.git
+[submodule "KissXML"]
+	path = KissXML
+	url = git://github.com/westbaer/KissXML.git
